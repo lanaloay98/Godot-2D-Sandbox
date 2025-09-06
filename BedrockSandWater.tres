@@ -1,0 +1,23 @@
+[gd_resource type="TileSet" load_steps=5 format=3 uid="uid://bqgc6lbueslt4"]
+
+[ext_resource type="Texture2D" uid="uid://ckrffjh7bymlh" path="res://tiles.png" id="1_mm6t4"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_uulhj"]
+resource_name = "Bedrock"
+texture = ExtResource("1_mm6t4")
+13:21/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_67b2g"]
+resource_name = "Sand"
+texture = ExtResource("1_mm6t4")
+35:21/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_in12w"]
+resource_name = "Water"
+texture = ExtResource("1_mm6t4")
+61:24/0 = 0
+
+[resource]
+sources/0 = SubResource("TileSetAtlasSource_uulhj")
+sources/1 = SubResource("TileSetAtlasSource_67b2g")
+sources/2 = SubResource("TileSetAtlasSource_in12w")
