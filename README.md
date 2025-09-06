@@ -1,4 +1,4 @@
-Godot 2D Sandbox
+<img width="1136" height="647" alt="image" src="https://github.com/user-attachments/assets/1df2bc3f-1bb8-48b5-bcd8-ff5019a809ad" />Godot 2D Sandbox
 
 A lightweight 2D sandbox simulation built with Godot Engine, focusing on physics-based interactions between water, sand, and rocks.
 The project demonstrates basic particle mechanics and efficient 2D rendering for interactive simulations.
@@ -39,7 +39,7 @@ Basic 2D Physics & Particle Simulation
 
 Clone the repository:
 
-git clone https://github.com/lanaloay98/godot-2d-sandbox.git
+git clone https://github.com/lanaloay98/Godot-2D-Sandbox.git
 
 
 Open the project in Godot Engine.
