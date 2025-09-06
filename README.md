@@ -1,5 +1,3 @@
-<img width="1136" height="647" alt="image" src="https://github.com/user-attachments/assets/1df2bc3f-1bb8-48b5-bcd8-ff5019a809ad" />Godot 2D Sandbox
-
 A lightweight 2D sandbox simulation built with Godot Engine, focusing on physics-based interactions between water, sand, and rocks.
 The project demonstrates basic particle mechanics and efficient 2D rendering for interactive simulations.
 
@@ -15,9 +13,10 @@ The project demonstrates basic particle mechanics and efficient 2D rendering for
 
 🔹 Controls
 
-Add particles (water, sand, rock) directly into the simulation.
+Add/delete particles (water, sand, rock) directly into the simulation.
 
 Watch how particles react to gravity and collisions in real time.
+<img width="748" height="560" alt="image" src="https://github.com/user-attachments/assets/bcfe9614-a840-4c2f-acef-c2ed050ee426" />
 
 🔹 Tech Stack
 
